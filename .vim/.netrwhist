@@ -1,6 +1,0 @@
-let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =4
-let g:netrw_dirhist_1='/Users/brandonbench/code/OpenDiablo2'
-let g:netrw_dirhist_2='/Users/brandonbench'
-let g:netrw_dirhist_3='/Users/brandonbench/code/cs2420/assignment8'
-let g:netrw_dirhist_4='/Users/brandonbench/go/src/foo/Dockerfile'
