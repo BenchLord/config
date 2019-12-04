@@ -7,4 +7,4 @@ mv $HOME/config/.zshrc $HOME
 echo "$(ls $HOME/config)"
 mv $HOME/config/custom.zsh-theme $HOME/.oh-my-zsh/custom/themes
 # TODO: clone vim plugins
-source $HOME/.zshrc
+source $HOME/.zshrc && rl
